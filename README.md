@@ -7,9 +7,9 @@ I’m the Product Marketing Manager for a software company that specializes in n
 
 The first step in portfolio management is to create an inventory of all projects in the pipeline, including potential projects, by gathering key project and organizational information. We need to categorize these projects and identify the company’s strategic goals and business objectives so we can determine if these projects support those strategic objectives, and if so, which ones. I am be working with two datasets from a customer who want a configured demo of our software. 
 
-### Sources of data:
+### Extraction of the data:
 
-The customer currently manage their portfolio of projects using Excel spreadsheets and it is difficult for them to know if or how each project is tied to the company’s strategies. The customer has provided two separate CSV files: (1) project listing with project details and (2) project strategy and risk information. Please be aware that the customer is providing sample data and has modified anything that was proprietary.
+The customer currently manage their portfolio of projects using Excel spreadsheets and it is difficult for them to know if or how each project is tied to the company’s strategies. The customer has provided two separate Excel spreadsheets and I saved them as CSV files: (1) project listing with project details and (2) project strategy and risk information. Please be aware that this is not proprietary data. The customer provided sample data and they had modified anything that was proprietary before turning over the Excel files.
 
 ### Transformation of the data:
 
