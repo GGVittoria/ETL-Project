@@ -9,7 +9,7 @@ The first step in portfolio management is to create an inventory of all projects
 
 ### Extraction of the data:
 
-The customer currently manage their portfolio of projects using Excel spreadsheets and it is difficult for them to know if or how each project is tied to the company’s strategies. The customer has provided two separate Excel spreadsheets and I saved them as CSV files: (1) project listing with project details and (2) project strategy and risk information. Please be aware that this is not proprietary data. The customer provided sample data and they had modified anything that was proprietary before turning over the Excel files.
+The customer currently manages their portfolio of projects using Excel spreadsheets and it is difficult for them to know if or how each project is tied to the company’s strategies. The customer has provided two separate Excel spreadsheets and I saved them as CSV files: (1) project listing with project details and (2) project strategy and risk information. Please be aware that this is not proprietary data. The customer provided sample data and they had modified anything that was proprietary before turning over the Excel files.
 
 ### Transformation of the data:
 
