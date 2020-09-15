@@ -13,12 +13,10 @@ The customer currently manages their portfolio of projects using Excel spreadshe
 
 ### Transformation of the data:
 
-
-    Used Pandas functions in Jupyter Notebook to load all three CSV files.
-    Reviewed the files and transformed into data frames
-    Removed the operator’s column and the address column due to missing information which was not relevant to the focus of this study.
-    Identified duplicates by doing an inner merge on the incident id column across all three data sets.
-    Created queries to address our hypothesis by grouping the data by state and getting the sum of the number of people killed and the number of people injured. We sorted the data in descending order so we could visually see which state had the highest numbers.
+Used Pandas functions in Jupyter Notebook to load the CSV files
+Reviewed the files and transformed into DataFrames
+Checked for, identified, and removed duplicate records from each file before joining the files
+Joined the files to create one DataFrame that contained the project details with strategy and risk information
 
 Type of final production database data is loaded into:
 
