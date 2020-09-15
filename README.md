@@ -23,7 +23,7 @@ Checked for, identified, and removed duplicate records from each file before joi
 
 Joined the files to create one DataFrame that contained the project details with strategy and risk information
 
-### Load the data into a database
+### Loaded the portfolio management data into a database
 
 The last step was to transfer the final output into a Postgres database using PG admin 
 
