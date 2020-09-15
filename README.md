@@ -27,8 +27,8 @@ Joined the files to create one DataFrame that contained the project details with
 
 The last step was to transfer the final output into a Postgres database using PG admi
 
-### Summary
+## Summary
 
-Analysis of the project portfolio is the next stemp in the portfolio management process.
+Analysis of the project portfolio is the next step in the portfolio management process.
 
 
