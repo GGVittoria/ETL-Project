@@ -14,9 +14,17 @@ The customer currently manages their portfolio of projects using Excel spreadshe
 ### Transformation of the data:
 
 Used Pandas functions in Jupyter Notebook to load the CSV files
+
+
 Reviewed the files and transformed into DataFrames
+
+
 Checked for, identified, and removed duplicate records from each file before joining the files
+
+
 Joined the files to create one DataFrame that contained the project details with strategy and risk information
+
+
 
 Type of final production database data is loaded into:
 
