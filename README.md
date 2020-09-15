@@ -23,7 +23,12 @@ Checked for, identified, and removed duplicate records from each file before joi
 
 Joined the files to create one DataFrame that contained the project details with strategy and risk information
 
-### Loaded the portfolio management data into a database
+### Loaded the project portfolio into a database:
 
-The last step was to transfer the final output into a Postgres database using PG admin 
+The last step was to transfer the final output into a Postgres database using PG admi
+
+### Summary
+
+Analysis of the project portfolio is the next stemp in the portfolio management process.
+
 
