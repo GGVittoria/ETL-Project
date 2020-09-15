@@ -23,16 +23,7 @@ Checked for, identified, and removed duplicate records from each file before joi
 
 Joined the files to create one DataFrame that contained the project details with strategy and risk information
 
+### Load the data into a database
 
-
-Type of final production database data is loaded into:
-
-We used a relational database (PostgreSQL) to link the data by our common identifier, State.
-Final tables/collections that we used in the production database:
-
-    New final table with found/calculated values by State.
-    Total energy consumption vs. renewable energy potential by State:
-        Can a State’s potential meet their consumption?
-    Types of renewable energy by highest potential:
-        Which types account for the most potential? By State?
+The last step was to transfer the final output into a Postgres database using PG admin 
 
