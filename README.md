@@ -15,7 +15,7 @@ So before running the ETL process (Portfolio_Mgmt.ipynb), follow these steps:
     
     2. run schema.sql to create the table in the new database
     
-    3. use a config.py file to store the db_connection string for the new database you just created and is should look something like this
+    3. use a config.py file to store the db_connection string for the new database you just created - it should look something like this
     
             db_connection = 'postgresql+psycopg2://postgres:PASSWORD@localhost:5432/accolade_db'
             
