@@ -1,0 +1,615 @@
+Project ID,Strategy Score,Risk Score,Risk - # of Vendors Contributing,Risk - Business Problem Clearly Defined,Risk - Business Processes Impacted,Risk - Impact to Key Financial Application,Risk - Level of User Change Management,Risk - Market,"Risk - New Product, Functionality or Service",Risk - Outside US or Marketing Area,Risk - Reputation or Shareholder Value Affected,Risk - Stand-Alone Project will Cost $10M,Type,Primary Support Strategy,Support for Reducing Costs,Support for Increased Productivity,Support for External Customers,Support for Internal Customers,Support for Competitive Differentiation,Mandatory?,Business Priority,Forced Rank,Risk Eval,Risk - Acceptance,Risk - Skills / Capability,Risk - Complexity,Risk - Product / Technology,Risk - Planning
+AB-U38510550,59,73,High,Med,Med,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,No,,,67,Med,Med,High,Low,Med
+AC-D39121594,36,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+AC-G38719560,36,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+AC-M39177596,50,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+AC-R38763567,89,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+AC-S38719561,50,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+AC-U39008592,69,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+AD-B38810574,59,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+AD-F40512198,64,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+AD-K38770570,73,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+AD-M38706559,89,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+AD-M38728564,43,80,High,Low,Low,High,High,Med,High,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Moderate,Moderate,No,,,50,Med,Low,High,High,Low
+AD-W38726563,51,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+AM-A38789187,34,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+AM-F39310598,54,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Weak,Moderate,Strong,Very Strong,,,,33,Low,Low,Low,Low,Low
+AM-H38761566,69,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Very Strong,Moderate,Very Strong,Mandatory,,,,33,Low,Low,Low,Low,Low
+AM-J38824579,45,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+AM-M38790573,72,40,Med,Low,Low,Low,Med,-,Low,Med,-,Med,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Very Strong,Strong,Strong,Strong,,,,17,-,Low,Med,Low,Low
+AM-W38845581,24,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Increased Productivity,Weak,Moderate,Weak,Weak,Weak,,,,33,Low,Low,Low,Low,Low
+AN-B39116189,32,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+AN-F38687558,37,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+AN-I38597186,76,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+AN-S38831580,86,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+AN-W39043188,63,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+AS-A40695199,60,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+BM-E40946160,89,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+BM-R4054626,56,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BM-R40910127,42,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+BP-B40911138,31,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+BP-C4063740,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+BP-C41061481,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+BP-S40975207,52,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+BR-B40909406,87,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+BR-D40909402,37,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+BR-D40909403,51,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+BR-D40910423,34,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+BR-D41000470,65,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+BR-E40909405,54,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+BR-E41000829,52,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+BR-M41044478,36,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+BR-O41030475,38,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+BR-S40595264,30,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+BS-C40910132,75,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+C-C42036185,32,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CC-A38993589,32,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CD-H38818578,40,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+C-F40909760,55,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+C-I40909759,51,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CI-U38763568,64,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CM-240182617,76,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+CM-24043412,32,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CM-240544664,37,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CM-24054628,37,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CM-240658698,66,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CM-240911815,76,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CM-A4066541,35,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CM-B40420647,60,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CM-C40203619,56,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+CM-C4090965,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CM-E40766285,79,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CM-E40910804,93,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CM-E40946158,38,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CM-E40946159,38,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CM-F4090967,54,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CM-F40910810,66,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CM-G38810576,53,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CM-H4090966,36,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CM-I38810577,53,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CM-I40851312,55,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CM-I40869316,55,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CM-I40909799,54,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CM-I40911431,28,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CM-I40911432,75,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CM-I40911437,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CM-I40911438,34,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Very Strong,Moderate,Very Strong,Mandatory,,,,33,Low,Low,Low,Low,Low
+CM-K39888241,35,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CM-L40288633,53,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CM-P40940452,90,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CM-R4054420,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CM-R4054625,67,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+CM-R40546672,33,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CM-R40910125,34,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CM-R40910126,61,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CM-S4068442,42,73,High,Med,Med,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,No,,,67,Med,Med,High,Low,Med
+CM-S40909734,29,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CM-S41262495,63,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CM-W41275863,25,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CN-C40909758,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CP-A40909100,29,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CP-A4090999,45,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CP-B4060336,63,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CP-B4090996,36,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CP-C40574260,65,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CP-C40787718,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CP-C4090985,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CP-C40969163,90,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CP-C41061171,44,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CP-D4057533,53,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CP-D4060337,73,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CP-D41000165,40,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CP-D41183178,41,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+CP-E402385,66,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CP-E40665276,75,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CP-E40787717,79,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CP-E40909101,51,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CP-E4090979,66,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CP-F402384,89,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CP-H40909102,66,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CP-I40787720,74,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CP-I40909378,76,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CP-I40909383,37,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CP-I40910417,32,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CP-I40910808,39,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CP-I40940151,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CP-L402947,53,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CP-L41000466,37,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CP-L41030191,77,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CP-L41122196,81,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CP-M4090991,33,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CP-M4090997,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CP-O40787716,74,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CP-P4075651,64,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CP-P40909103,90,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CP-P40940453,53,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CP-R40910130,45,80,High,Low,Low,High,High,Med,High,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Moderate,Moderate,No,,,50,Med,Low,High,High,Low
+CP-S4075648,34,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CP-S40909338,34,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CP-S40909339,60,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CP-T402243,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CR-2403318,37,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CR-240545669,57,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CR-C41091173,39,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CR-E41183177,66,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CR-I41153176,57,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Increased Productivity,Weak,Moderate,Weak,Weak,Weak,,,,33,Low,Low,Low,Low,Low
+CR-R39661233,37,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CR-R39770606,71,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CR-R40940454,37,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CR-S4057532,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Weak,Moderate,Strong,Very Strong,,,,33,Low,Low,Low,Low,Low
+CR-T4057531,66,70,Med,Med,Low,Med,Med,High,Med,Med,High,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Moderate,Weak,Moderate,Weak,,,,67,High,Low,Med,Med,Med
+CR-T40909379,52,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CR-U41153489,75,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-140819193,74,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-240211621,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+CS-240238624,66,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CS-240246626,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CS-240483655,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-240544215,78,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CS-24054423,77,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-240921818,34,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-340909743,37,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CS-340909744,61,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-340910415,65,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CS-A40817304,54,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-A40909352,57,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CS-A40909754,54,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-A40909761,51,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CS-A40909800,43,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CS-A40911439,43,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CS-A42217880,77,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CS-B40231623,89,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-B40513659,39,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-B40546257,52,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-C39489603,39,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+CS-C39818610,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-C39818611,62,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-C39904242,46,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CS-C39931211,90,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CS-C40182616,48,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-C40188618,88,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-C40287629,62,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CS-C40287630,67,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-C40301635,62,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-C40358641,92,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-C40360642,39,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-C4039110,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-C40391250,62,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+CS-C403919,52,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+CS-C40471652,32,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-C40546256,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-C4054627,82,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CS-C40546676,56,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CS-C40588263,36,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-C40599266,70,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-C40603267,52,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-C40603685,92,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-C4063439,73,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-C40637271,53,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-C40700701,32,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-C40756283,53,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-C4081459,52,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-C40831307,43,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-C40847308,38,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-C4084862,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-C40868315,74,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-C4087563,61,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CS-C4090972,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-C4090974,42,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-C40909749,64,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-C40909782,43,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-C40910416,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-C40910418,48,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-C40911206,29,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CS-C40917441,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-C41275513,25,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Increased Productivity,Weak,Moderate,Weak,Weak,Weak,,,,33,Low,Low,Low,Low,Low
+CS-C42156881,83,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CS-D40287632,76,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-D40330639,63,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-D4075650,34,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-D40787298,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Very Strong,Moderate,Very Strong,Mandatory,,,,33,Low,Low,Low,Low,Low
+CS-D40862314,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-D40909742,37,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-D40909762,87,73,High,Med,Med,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,No,,,67,Med,Med,High,Low,Med
+CS-D40909773,53,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-D40910413,53,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CS-E39934245,67,73,High,Med,Med,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,No,,,67,Med,Med,High,Low,Med
+CS-E40179614,53,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-E40238625,63,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-E4054424,47,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+CS-E40575262,63,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-E40785295,47,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CS-E40801722,69,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-E40817303,30,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-E40878205,48,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-E40909740,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CS-E40909752,45,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-E40909771,38,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CS-E40909777,53,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CS-E40909783,34,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-E41275841,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-F40581683,91,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CS-F40598265,87,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-F40709702,76,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-F40763192,61,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-F40909778,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-F41044195,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-F41092175,75,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-G41183494,51,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-I39874238,54,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+CS-I40512252,35,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+CS-I40544665,42,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-I4057534,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-I40575682,36,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+CS-I40724280,49,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+CS-I40755707,92,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-I40787217,47,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Increased Productivity,Weak,Moderate,Weak,Weak,Weak,,,,33,Low,Low,Low,Low,Low
+CS-I40802301,91,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CS-I4082061,38,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CS-I40909355,32,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-I40909747,90,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-I40909779,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-I40910410,38,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-I40911435,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-I40921443,35,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-I40945153,62,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-L39814607,86,70,Med,Med,Low,Med,Med,High,Med,Med,High,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Moderate,Weak,Moderate,Weak,,,,67,High,Low,Med,Med,Med
+CS-L40259627,36,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-L40910412,87,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-L40917442,53,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-L40925446,51,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-M40217622,63,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-M40280628,43,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-M40350640,75,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+CS-M40603686,76,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+CS-M40786297,51,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-M40848309,61,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+CS-M40909751,31,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-M40909756,66,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-M40909774,63,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-M40910803,70,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+CS-M40910807,35,40,Med,Low,Low,Low,Med,-,Low,Med,-,Med,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Very Strong,Strong,Strong,Strong,,,,17,-,Low,Med,Low,Low
+CS-M41365869,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-M42248879,56,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-N40767287,51,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-N40785296,76,60,High,Low,Low,Low,High,Low,Low,High,Low,High,IT Waterfall traditional implementation,Support for Increased Productivity,Moderate,Strong,Moderate,Weak,Moderate,Yes,,,33,Low,Low,High,Low,Low
+CS-O40392645,56,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+CS-O40544254,57,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-O40575261,78,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-O40766286,43,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-O4077052,55,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+CS-O40817724,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-O40909775,91,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+CS-O40909784,27,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CS-O40909785,91,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CS-P400282,76,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+CS-P4039211,33,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+CS-P40483654,43,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CS-P40818306,47,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-P40909757,54,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-P40909766,65,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+CS-P40909772,91,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-P40910122,40,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CS-P40980201,40,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-Q40374644,67,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-R4054421,93,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+CS-R40544667,40,70,Med,Med,Low,Med,Med,High,Med,Med,High,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Moderate,Weak,Moderate,Weak,,,,67,High,Low,Med,Med,Med
+CS-R40802302,67,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-R40909741,55,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-R40909748,40,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-S39272597,62,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CS-S402386,43,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-S40483656,91,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-S40756712,53,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+CS-S40770289,45,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CS-S40840726,49,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-S40909745,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+CS-S40909746,63,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CS-S40909750,41,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-S40909763,43,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CS-S40909764,74,40,Med,Low,Low,Low,Med,-,Low,Med,-,Med,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Very Strong,Strong,Strong,Strong,,,,17,-,Low,Med,Low,Low
+CS-S40909776,54,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+CS-S41275850,86,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+CS-S41306866,43,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+CS-T40755706,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+CS-T40909753,66,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+CS-T40909781,74,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CS-T40969458,51,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CS-U40365249,43,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+CS-U40544666,87,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+CS-W39814236,77,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CS-W40553677,79,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+CS-W40665275,38,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+CS-W40729705,64,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+CS-W40909755,35,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+CS-W40910805,73,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+CS-W41305529,43,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+M-F41001168,34,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+MM-E40945154,53,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+MM-R4090968,91,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+M-P40940144,91,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+MP-R41001167,86,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+MR-341061170,52,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+MR-I4069545,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+MR-I40940145,42,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+MR-M40910408,69,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+MR-N40940143,37,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+MR-P4054419,87,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+MR-P4090970,55,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+MR-P40940146,44,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+MR-S4069544,55,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+MR-V40910121,26,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+MS-240911440,89,80,High,Low,Low,High,High,Med,High,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Moderate,Moderate,No,,,50,Med,Low,High,High,Low
+MS-D40922444,38,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+MS-M4090975,37,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+MS-M40910409,77,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+MS-R40910419,65,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+MS-R40940147,65,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+MS-S40940148,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+MS-W39874239,73,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+N-L40940150,73,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+NM-E40947161,37,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+NN-L40920222,53,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+NN-T40942152,62,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+PC-C38775571,59,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+PC-P38733565,53,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+PD-Q38810575,74,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+PI-I38721562,40,60,High,Low,Low,Low,High,Low,Low,High,Low,High,IT Waterfall traditional implementation,Support for Increased Productivity,Moderate,Strong,Moderate,Weak,Moderate,Yes,,,33,Low,Low,High,Low,Low
+PI-U38764569,28,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+PM-G38777572,36,70,Med,Med,Low,Med,Med,High,Med,Med,High,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Moderate,Weak,Moderate,Weak,,,,67,High,Low,Med,Med,Med
+PM-S39147595,49,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+PN-P38621556,53,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+R-C41001831,61,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+RM-24054629,33,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+RM-240911135,88,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+RM-A40665274,83,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+RM-B40296634,27,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+RM-B40413646,54,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+RM-C40911812,52,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+RM-E40946157,54,70,Med,Med,Low,Med,Med,High,Med,Med,High,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Moderate,Weak,Moderate,Weak,,,,67,High,Low,Med,Med,Med
+RM-I39875240,56,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RM-M40909337,39,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+RM-P40360643,73,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+RM-R40546258,67,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+RM-R40546671,69,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+RM-R40910124,36,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+R-P41030833,88,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+RP-C40911816,55,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+RP-E40969827,65,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+RP-I40911813,28,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+RP-R40909796,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RP-R40909797,25,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+RP-R40909798,49,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+RP-R40911814,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+RR-A40911430,44,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+RR-A41000830,45,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+RR-C40518253,61,40,Med,Low,Low,Low,Med,-,Low,Med,-,Med,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Very Strong,Strong,Strong,Strong,,,,17,-,Low,Med,Low,Low
+RR-C40616268,64,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+RR-C40651272,36,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+RR-C40915817,53,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+RR-C40940821,61,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+RR-C40969825,43,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+RR-C40969826,89,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+RR-C41030476,55,73,High,Med,Med,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,No,,,67,Med,Med,High,Low,Med
+RR-C41061834,89,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+RR-D40910133,61,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+RR-E40210620,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+RR-E40911429,86,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+RR-F40911136,93,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+RR-F41091835,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+RR-H40969824,56,80,High,Low,Low,High,High,Med,High,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Moderate,Moderate,No,,,50,Med,Low,High,High,Low
+RR-I41064482,77,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+RR-L40911137,52,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+RR-N40451649,53,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+RR-N40911194,67,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+RR-R40910128,69,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+RR-W41365868,40,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+TM-C40665277,34,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+TM-C4090981,90,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+TM-E40923140,89,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+TM-E40940822,86,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+TM-E40946156,33,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+TM-E41395538,87,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+TM-F40287631,76,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+TM-F40287631,76,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+TM-L39909243,56,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+TM-L40695279,53,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+TM-P39817608,28,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+TM-P40301636,54,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+TM-R40910129,64,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+TM-U40969459,36,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+TP-B40911434,53,60,High,Low,Low,Low,High,Low,Low,High,Low,High,IT Waterfall traditional implementation,Support for Increased Productivity,Moderate,Strong,Moderate,Weak,Moderate,Yes,,,33,Low,Low,High,Low,Low
+TP-B40994465,78,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+TP-C40911221,27,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+TP-E40946456,24,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+TP-I40909343,45,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+TP-I40994464,54,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+TP-I41000208,39,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+TP-I41275506,76,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+TP-M40931447,90,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+TP-R40909342,54,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+TP-S40672278,56,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+TR-A40232212,88,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+TR-B41001471,26,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+TR-C39944246,37,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+TR-C4071447,63,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+TR-C41365534,52,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+TR-D40413251,76,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+TR-D41000467,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+TR-D41091483,42,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+TR-D41091484,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+TR-D41320532,33,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+TR-D41365536,77,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+TR-D41424184,53,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+TR-E40925142,36,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+TR-E41153488,41,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+TR-E41289528,76,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+TR-H40911139,74,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+TR-H41306530,87,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+TR-H41365537,34,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+TR-I40911433,63,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+TR-I41091485,35,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+TR-I41183492,92,80,High,Low,Low,High,High,Med,High,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Moderate,Moderate,No,,,50,Med,Low,High,High,Low
+TR-I41456542,55,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+TR-L41275519,51,40,Med,Low,Low,Low,Med,-,Low,Med,-,Med,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Very Strong,Strong,Strong,Strong,,,,17,-,Low,Med,Low,Low
+TR-M41426540,62,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+TR-N41335533,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+TR-P41365535,65,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+TR-S40315248,32,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+TR-S40637270,86,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+TR-U41426539,33,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+TR-V41320183,55,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+TS-C40546673,53,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+TS-C40848727,87,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+WM-A39442602,87,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+WM-A40771291,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+WM-A40923445,51,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WM-B40603690,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WM-B4087964,75,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+WM-B40909324,51,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WM-C40546674,77,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WM-C40603684,35,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+WM-C40603688,43,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WM-C40725704,81,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+WM-D40772292,39,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WM-D40817305,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WM-D40882317,53,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WM-D40909219,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+WM-D40909365,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+WM-D40909371,39,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WM-D40909401,89,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+WM-D41001169,91,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WM-D41061479,37,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+WM-E40420648,62,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WM-E40909372,55,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+WM-E4090982,45,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WM-E40946155,36,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WM-E41306867,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WM-F39861612,38,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WM-F41306531,83,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WM-G40909335,78,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+WM-I38845230,73,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WM-I40909364,37,60,High,Low,Low,Low,High,Low,Low,High,Low,High,IT Waterfall traditional implementation,Support for Increased Productivity,Moderate,Strong,Moderate,Weak,Moderate,Yes,,,33,Low,Low,High,Low,Low
+WM-L40483653,74,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WM-L40940449,64,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WM-O40179247,62,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WM-O40513658,65,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WM-O40777293,53,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+WM-O40787299,63,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WM-O40910424,54,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WM-O41000469,69,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WM-R40492657,33,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WM-R40545668,76,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WM-R4055830,63,60,High,Low,Low,Low,High,Low,Low,High,Low,High,IT Waterfall traditional implementation,Support for Increased Productivity,Moderate,Strong,Moderate,Weak,Moderate,Yes,,,33,Low,Low,High,Low,Low
+WM-R40909334,59,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+WM-R40910123,42,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+WM-R40910811,35,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WM-R40940455,73,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+WM-R40940455,73,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Mandatory,Mandatory,Strong,Very Strong,Mandatory,Yes,,,33,Low,Low,Low,Low,Low
+WM-S40909357,47,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+WM-S4090986,92,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WM-T4090977,63,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+WM-U41061480,76,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+WM-U42019549,93,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+WM-W39435601,73,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Very Strong,Moderate,Very Strong,Mandatory,,,,33,Low,Low,Low,Low,Low
+WM-W40323637,61,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WM-W40323638,41,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+WM-W40909366,43,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WN-C42162878,56,53,Med,Med,Med,Low,Med,Low,Low,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Moderate,Strong,Strong,Strong,Weak,,,,50,Low,Med,Med,Low,Med
+WP-A40664699,36,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+WP-C40770288,27,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+WP-C4077054,30,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WP-D40770713,62,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WP-D40923141,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+WP-E40756284,87,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WP-E40770290,42,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+WP-F40725703,31,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WP-L4077053,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WP-P39644231,90,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WP-P39661232,40,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+WP-R40770714,92,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+WR-A40613692,54,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WR-B40452650,70,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+WR-B4060335,63,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WR-B40603689,55,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+WR-B40648697,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Weak,Moderate,Strong,Very Strong,,,,33,Low,Low,Low,Low,Low
+WR-B40969460,56,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WR-C4046913,52,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WR-C40848311,32,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Weak,Moderate,Strong,Very Strong,,,,33,Low,Low,Low,Low,Low
+WR-C40909391,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+WR-C40909398,53,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WR-C4090983,70,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WR-C40910220,50,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+WR-D40909107,42,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+WR-D40909110,89,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+WR-D40909112,32,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+WR-D4090988,75,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WR-E4049716,55,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+WR-E40603687,61,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WR-E40909119,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Weak,Weak,Moderate,Moderate,Moderate,No,,,33,Low,Low,Low,Low,Low
+WR-I40793300,36,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WR-I40909115,61,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WR-I40924820,55,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+WR-I41091174,78,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+WR-M40777294,38,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WR-P40756710,62,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WR-P4090984,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Weak,Moderate,Strong,Very Strong,,,,33,Low,Low,Low,Low,Low
+WR-R4048315,54,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+WR-R40664273,72,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WR-R40695700,41,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+WR-R4081760,70,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
+WR-R40909106,33,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WR-R40909120,55,77,Med,Med,Low,High,Med,High,High,Med,High,Med,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Moderate,Strong,Strong,Very Strong,,,,67,High,Low,Med,High,Med
+WR-R40999164,56,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+WR-S40756709,51,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WR-S41000166,41,73,High,Med,Med,Med,High,Low,Med,High,Low,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Moderate,Weak,Strong,Strong,Very Strong,,,,50,Low,Med,High,Med,Med
+WR-W40616693,64,67,High,Low,Low,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Strong,Very Strong,No,,,50,Med,Low,High,Low,Low
+WR-W40756708,74,40,Low,Low,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for External Customers,Moderate,Weak,Mandatory,Weak,Strong,,,,50,Med,Low,Low,Low,Low
+WR-W40756711,71,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Increased Productivity,Weak,Moderate,Weak,Weak,Weak,,,,33,Low,Low,Low,Low,Low
+WR-W40909786,61,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+WS-A40909105,65,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WS-A40909118,76,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+WS-A40909794,61,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WS-B40558678,53,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WS-B40909393,81,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WS-B41913877,39,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+WS-C40725282,65,67,Med,Med,Med,Med,Med,Med,Med,Med,Med,Med,IT Waterfall traditional implementation,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,[None],No,,,67,Med,Med,Med,Med,Med
+WS-C4078756,27,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WS-C40909108,40,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WS-C40909331,36,50,Low,Med,High,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Moderate,Mandatory,Strong,Weak,No,,,67,Low,High,Low,Med,Med
+WS-C40909394,55,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+WS-C40909397,36,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WS-C40909788,60,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Competitive Differentiation,Strong,Strong,Weak,Strong,Very Strong,No,,,33,Low,Low,Low,Low,Low
+WS-C41030473,73,40,Low,Low,Low,Med,Low,Low,Med,Low,Low,Low,IT Waterfall traditional implementation,Support for Internal Customers,Moderate,Very Strong,Moderate,Mandatory,Moderate,,,,33,Low,Low,Low,Med,Low
+WS-D40909113,38,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WS-D40909114,39,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WS-D40909325,64,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for Internal Customers,Strong,Strong,Strong,Very Strong,Strong,,,,83,High,Med,Med,Low,Med
+WS-D40909326,54,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WS-D40909327,69,77,Med,Low,Med,High,Med,High,High,Med,High,Med,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Strong,Weak,Weak,Weak,No,,,83,High,Med,Med,High,Low
+WS-D40909329,53,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WS-D40909333,54,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WS-D41183490,62,47,Low,Low,Low,Med,Low,Med,Med,Low,Med,Low,IT Waterfall traditional implementation,Support for Reducing Costs,Very Strong,Moderate,Strong,Weak,Moderate,No,,,50,Med,Low,Low,Med,Low
+WS-E40514660,70,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WS-E40575681,67,73,High,Low,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Reducing Costs,Mandatory,Very Strong,Very Strong,Moderate,Strong,,,,50,Med,Low,High,Med,Low
+WS-E40617695,92,80,High,Med,Med,Med,High,Med,Med,High,Med,High,Six Sigma Kaizen event,Support for Internal Customers,Weak,Weak,Weak,Strong,Weak,Yes,,,67,Med,Med,High,Med,Med
+WS-E40909330,45,80,High,Med,Med,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Strong,Strong,Moderate,Very Strong,,,,67,Med,Med,High,Med,Med
+WS-E4090973,89,80,High,High,Low,Med,High,Med,Med,High,Med,High,IT Waterfall traditional implementation,Support for Increased Productivity,Strong,Very Strong,Weak,Moderate,Very Strong,Yes,,,50,Med,Low,High,Med,High
+WS-F40909332,64,63,High,Med,Low,Low,High,Low,Low,High,Low,High,Six Sigma Kaizen event,Support for Internal Customers,Very Strong,Strong,Strong,Mandatory,Moderate,,,,33,Low,Low,High,Low,Med
+WS-I40909328,88,77,High,High,Med,Low,High,Med,Low,High,Med,High,IT Waterfall traditional implementation,Support for External Customers,Strong,Moderate,Strong,Weak,Moderate,,,,67,Med,Med,High,Low,High
+WS-I40909795,83,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+WS-K40909792,40,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+WS-L40470651,54,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for External Customers,Moderate,Weak,Moderate,Moderate,Moderate,,,,33,Low,Low,Low,Low,Low
+WS-M40909392,26,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Moderate,Weak,Moderate,No,,,33,Low,Low,Low,Low,Low
+WS-O40909793,51,33,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,IT Waterfall traditional implementation,Support for Competitive Differentiation,Strong,Very Strong,Moderate,Very Strong,Mandatory,,,,33,Low,Low,Low,Low,Low
+WS-P40149613,86,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+WS-P40634696,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WS-P40909109,76,57,Med,Low,Med,Med,Med,Low,Med,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Moderate,Strong,No,,,50,Low,Med,Med,Med,Low
+WS-P40909789,66,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+WS-R41183491,39,67,Med,Med,Med,Low,Med,High,Low,Med,High,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Mandatory,Mandatory,Very Strong,Very Strong,,,,83,High,Med,Med,Low,Med
+WS-S40909116,54,70,High,Med,Low,Low,High,Med,Low,High,Med,High,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Moderate,Weak,Weak,Weak,,,,50,Med,Low,High,Low,Med
+WS-S40909117,33,43,Low,Med,Low,Low,Low,Med,Low,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Mandatory,Strong,Very Strong,Strong,Very Strong,No,,,50,Med,Low,Low,Low,Med
+WS-S40909321,75,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+WS-S40909791,52,43,Low,Low,Med,Med,Low,Low,Med,Low,Low,Low,Six Sigma Kaizen event,Support for Increased Productivity,Weak,Very Strong,Strong,Strong,Moderate,No,,,50,Low,Med,Low,Med,Low
+WS-T39914244,66,70,Med,High,Med,High,Med,Low,High,Med,Low,Med,IT Waterfall traditional implementation,Support for External Customers,Very Strong,Very Strong,Mandatory,Mandatory,Very Strong,,,,50,Low,Med,Med,High,High
+WS-W40909395,37,57,Low,Med,High,Med,Low,Med,Med,Low,Med,Low,Six Sigma Kaizen event,Support for Reducing Costs,Strong,Weak,Moderate,Moderate,Weak,Yes,,,83,Med,High,Low,Med,Med
+WS-W40909396,57,30,-,High,-,-,-,High,-,-,High,-,Six Sigma Kaizen event,Support for Reducing Costs,Very Strong,Strong,Moderate,Strong,Weak,No,,,50,High,-,-,-,High
