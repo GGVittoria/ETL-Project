@@ -10,9 +10,13 @@ The first step in portfolio management is to create an inventory of all projects
 We are working with two datasets from a customer who want a configured demo of our software. We will run an ETL process to load the customer data into a PostgreSQL database named accolade_db.
 
 So before running the ETL process (Portfolio_Mgmt.ipynb), follow these steps:
+
     1. create a new database in Prostgres and name it accolade_db
+    
     2. run schema.sql to create the table in the new database
+    
     3. use a config.py file to store the db_connection string for the new database you just created and is should look something like this
+    
             db_connection = 'postgresql+psycopg2://postgres:PASSWORD@localhost:5432/accolade_db'
             
 You are now ready to run the ETL process (Portfolio_Mgmt.ipynb)
